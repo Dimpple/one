@@ -892,8 +892,8 @@
     <div id="mobileMenu">
         <div class="container">
             <ul>
-                <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-                <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
+                <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
+                <li><a href="#categories"><em class="fas fa-th-large"></em> Categories</a></li>
                 <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
                 <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
                 <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
