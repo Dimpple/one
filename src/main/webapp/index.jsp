@@ -1171,9 +1171,9 @@
                     <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
                     <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
                     <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
-                    <li><a href="#testimonials"><i class="fas fa-star"></i> Reviews</a></li>
-                    <li><a href="#"><i class="far fa-user"></i> Account</a></li>
-                    <li><a href="#"><i class="far fa-heart"></i> Wishlist</a></li>
+                    <li><a href="#testimonials"><em class="fas fa-star"></em> Reviews</a></li>
+                    <li><a href="#"><em class="far fa-user"></em> Account</a></li>
+                    <li><a href="#"><em class="far fa-heart"></em> Wishlist</a></li>
                 </ul>
             </div>
         </div>
